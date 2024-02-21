@@ -1,0 +1,42 @@
+{
+  "name": "child-of-the-moon-one-dark-pro",
+  "displayName": "Child Of The Moon / One Dark Pro",
+  "description": "Atom's iconic 'One Dark' theme with a 'Child Of The Moon' background (Edited the Winter Is Coming of David-Moskovitz)",
+  "version": "0.0.2",
+  "publisher": "aizawajayda",
+  "author": {
+    "name": "Jayda Orí"
+  },
+  "bugs": {
+    "url": "https://github.com/aizawajayda/CotMoonvscode/issues"
+  },
+  "homepage": "https://github.com/aizawajayda/CotMoonvscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aizawajayda/CotMoonvscode"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "theme",
+    "italics",
+    "atom",
+    "child of the moon"
+  ]
+}
